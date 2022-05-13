@@ -22,7 +22,7 @@ public class media2 {
         double nota2 = input.nextDouble();
         double nota3 = input.nextDouble();
 
-        double media = ((nota1 *  2  ) + (nota2 *  3  ) + (nota3 * 5   )) / (2+3+5);
+        double media = ((nota1 *  2) + (nota2 *  3) + (nota3 * 5)) / (2+3+5);
         System.out.printf("MEDIA = %.1f", media);
     }
 }
